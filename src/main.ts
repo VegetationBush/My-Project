@@ -7,3 +7,6 @@ for (let i: number = 0; i < randint(1, 20); i++) {
 }
 
 console.log(simpleSearch(searchable, randint(1, 20)))
+console.log(simpleSearch(searchable, randint(1, 20)))
+console.log(simpleSearch(searchable, randint(1, 20)))
+console.log(simpleSearch(searchable, randint(1, 20)))
